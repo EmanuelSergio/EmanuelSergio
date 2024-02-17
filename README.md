@@ -1,4 +1,4 @@
-### Olá! eu sou Emanuel Sergio Girardi 🤙
+## Olá! eu sou Emanuel Sergio Girardi 🤙
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-girardi-99320421a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
